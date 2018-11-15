@@ -1,0 +1,14 @@
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\bin\Debug\netcoreapp2.2\NetCoreHealthCheckExample.deps.json
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\bin\Debug\netcoreapp2.2\NetCoreHealthCheckExample.runtimeconfig.json
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\bin\Debug\netcoreapp2.2\NetCoreHealthCheckExample.runtimeconfig.dev.json
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\bin\Debug\netcoreapp2.2\NetCoreHealthCheckExample.dll
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\bin\Debug\netcoreapp2.2\NetCoreHealthCheckExample.pdb
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.csprojAssemblyReference.cache
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.csproj.CoreCompileInputs.cache
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.RazorAssemblyInfo.cache
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.RazorAssemblyInfo.cs
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.AssemblyInfoInputs.cache
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.AssemblyInfo.cs
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.RazorTargetAssemblyInfo.cache
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.dll
+C:\Users\vkovt\Documents\Projects\NetCoreHealthCheckExample\NetCoreHealthCheckExample\obj\Debug\netcoreapp2.2\NetCoreHealthCheckExample.pdb
